@@ -1,0 +1,33 @@
+{
+  "name": "assignment-4-undo-redo-hackthors",
+  "version": "1.0.0",
+  "description": "To do app with undo redo functionality",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-fall-2018/assignment-4-undo-redo-hackthors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-fall-2018/assignment-4-undo-redo-hackthors/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-fall-2018/assignment-4-undo-redo-hackthors#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "npm": "^6.4.1",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
+  },
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
