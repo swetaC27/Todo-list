@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/neu-mis-info6150-fall-2018/assignment-4-undo-redo-hackthors#readme",
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "npm": "^6.4.1",
     "to": "^0.2.9",
     "update": "^0.7.4"
